@@ -1,10 +1,10 @@
 # 📊 Data Science Projects
 
-A curated collection of hands-on data science and data analysis projects.
+A curated collection of hands-on data science and analytics mini-projects.
 
-Each subfolder contains a self-contained project with real-world datasets, exploratory analysis, business insights, and clean code — all in one notebook.
+Each folder contains a real-world dataset, data cleaning, EDA (exploratory data analysis), visualizations, and insights — all using Python, Pandas, and Matplotlib/Seaborn.
 
 ## 📁 Projects
 
-- `sales-forecasting-eda/` → Explore monthly and weekday sales trends.
-- (More projects coming soon...)
+### 🔹 [Sales Forecasting EDA](./sales-forecasting-eda/)
+> Time-based exploratory data analysis on sales trends across months and weekdays. Visualized with line, area, and bar plots.
