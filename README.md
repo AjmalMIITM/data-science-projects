@@ -8,3 +8,6 @@ Each folder contains a real-world dataset, data cleaning, EDA (exploratory data 
 
 ### 🔹 [Sales Forecasting EDA](./sales-forecasting-eda/)
 > Time-based exploratory data analysis on sales trends across months and weekdays. Visualized with line, area, and bar plots.
+
+### 🔹 [Data_Analysis_Workflow](./Data-analysis-workflow/)
+> A comprehensive workflow for conducting  data analysis, including data cleaning, EDA, statistical analysis, and reporting.
